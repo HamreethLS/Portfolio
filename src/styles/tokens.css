@@ -1,0 +1,15 @@
+:root {
+  color-scheme: dark;
+  --base: #100e14;
+  --panel: #17141e;
+  --panel-raised: #1d1926;
+  --line: #302a3b;
+  --line-strong: #514667;
+  --text: #ddd7e7;
+  --muted: #a29aad;
+  --faint: #70697b;
+  --accent: #c4aaff;
+  --accent-dim: #8d79b1;
+  --font-display: 'Press Start 2P', 'Courier New', monospace;
+  --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+}
